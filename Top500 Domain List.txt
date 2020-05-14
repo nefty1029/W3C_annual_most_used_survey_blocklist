@@ -1,12 +1,12 @@
-!
-! Version: 2020 
-! Title: Top500 most used ad & trackers in West Europe & North America (Domain List)
-!
-! Expires: 365 days (I am still testing this under-development-list)
-! You are free to copy and distribute this file for non-commercial use
-!
-! Domain count: 547
-! ===================================================================
+# 
+# Version: 2020 
+# Title: Top500 most used ad & trackers in West Europe & North America (Domain List)
+# 
+# Expires: 365 days (I am still testing this under-development-list)
+# You are free to copy and distribute this file for non-commercial use
+# 
+# Domain count: 547
+# ===================================================================
 1dmp.io
 1rx.io
 23video.com
