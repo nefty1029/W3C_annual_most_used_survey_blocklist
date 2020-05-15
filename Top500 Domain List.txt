@@ -54,7 +54,7 @@ adsafeprotected.com
 adsafety.net
 adsco.re
 adserver.adtech.de
-adservice.google
+adservice.google.com
 adsnative.com
 adsrvr.org
 adstanding.com
@@ -149,7 +149,6 @@ conductrics.com
 connatix.com
 connextra.com
 connexity.net
-consensu.org
 contentabc.com
 content-ad.net
 contextweb.com
