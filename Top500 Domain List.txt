@@ -5,7 +5,7 @@
 # Expires: 365 days (I am still testing this under-development-list)
 # You are free to copy and distribute this file for non-commercial use
 # 
-# Domain count: 919
+# Domain count: 917
 # ===================================================================
 1dmp.io
 1rx.io
@@ -350,7 +350,6 @@ crwdcntrl.net
 ctnsnet.com
 cxense.com
 cxpublic.com
-dailymotion.com
 dc-storm.com
 de17a.com
 deepintent.com
@@ -848,7 +847,6 @@ survata.com
 switchadhub.com
 synacor.com
 syndication.twitter.com
-t.co
 taboola.com
 tagcommander.com
 tags.tiqcdn.com
